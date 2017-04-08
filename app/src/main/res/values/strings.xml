@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zap Imóveis</string>
+    <string name="no_internet_connection_message">Sem conexão com a internet :(</string>
+    <string name="try_again_message">Tentar Novamente</string>
+    <string name="realty_type_placeholder">Apartamento Padrão</string>
+    <string name="realty_price_placeholder">R$ 7.500.000,00</string>
+    <string name="realty_address_placeholder">Avenida Ipiranga, 2830 - Porto Alegre</string>
+    <string name="no_realties_found_message">Nenhum imóvel encontrado.</string>
+    <string name="generic_error">\"Algo deu errado. Tente novamente mais tarde.</string>
+    <string name="filter_price">Preço</string>
+    <string name="filter_square_footage">Metro Quadrado</string>
+    <string name="filter_bedrooms">Número de Quartos</string>
+    <string name="filter_suites">Número de Suítes</string>
+    <string name="filter_parking_spots">Número de Vagas</string>
+    <string name="send_message">Enviar Mensagem</string>
+    <string name="no_internet_connection_2_message">Não há conexão com à internet. Verifique sua conexão e tente novamente.</string>
+    <string name="please_wait_message">Por favor, aguarde...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="required_fields_message">Preencha todos os campos para completar a operação.</string>
+    <string name="message_success">Mensagem enviada com sucesso.</string>
+</resources>
